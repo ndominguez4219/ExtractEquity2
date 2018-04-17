@@ -1,0 +1,7 @@
+
+should set up a decorator to check each dataframe that is used as argument is nonempty and organized as a 2 column level
+
+
+if logger.isEnabledFor(logging.DEBUG):
+    logger.debug('Message with %s, %s', expensive_func1(),
+                                        expensive_func2())
